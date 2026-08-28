@@ -1,0 +1,22 @@
+right angle triangle
+--------------
+1
+22
+333
+4444
+55555
+Inverse right angle triangle
+------------
+123456
+12345
+1234
+123
+12
+1
+Left angle triangle
+-----------------
+1111
+222
+33
+4
+
